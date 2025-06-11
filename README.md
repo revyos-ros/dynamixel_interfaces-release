@@ -1,3 +1,26 @@
+## dynamixel_interfaces (jazzy) - 1.0.1-2
+
+The packages in the `dynamixel_interfaces` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy dynamixel_interfaces --override-release-repository-push-url git@github.com:revyos-ros/dynamixel_interfaces-release.git` on `Wed, 11 Jun 2025 03:35:18 -0000`
+
+The `dynamixel_interfaces` package was released.
+
+Version of package(s) in repository `dynamixel_interfaces`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/dynamixel_interfaces.git
+- release repository: https://github.com/revyos-ros/dynamixel_interfaces-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.1-1`
+- new version: `1.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_interfaces (rolling) - 1.0.1-1
 
 The packages in the `dynamixel_interfaces` repository were released into the `rolling` distro by running `/usr/bin/bloom-release dynamixel_interfaces -t rolling -r rolling --edit` on `Mon, 10 Mar 2025 22:55:34 -0000`
